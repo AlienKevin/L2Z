@@ -1,0 +1,2086 @@
+{
+    "opportune": [
+        {
+            "examples": [
+                "I think this is an opportune time to discuss our plans for the future.",
+                "I agree. We need to make sure that we're making the right decisions now."
+            ],
+            "synonyms": "timely, auspicious, advantageous, favorable, propitious",
+            "meaning": "适宜的"
+        },
+        {
+            "examples": [
+                "Hey, I think this is an opportune time to discuss our new project.",
+                "Yes, I agree! We should take advantage of this moment."
+            ],
+            "synonyms": "auspicious, favorable, advantageous, propitious, timely.",
+            "meaning": "适宜的，合适的。"
+        },
+        {
+            "examples": [
+                "I think this is an opportune moment to discuss our new project.",
+                "Yes, I agree. Now is definitely the right time to start planning."
+            ],
+            "synonyms": "favorable, advantageous, timely, convenient, advantageous, auspicious.",
+            "meaning": "适宜的，有利的。"
+        }
+    ],
+    "doctrine": [
+        {
+            "examples": [
+                "Have you read the new company doctrine?",
+                "Yes, I have. It's quite interesting."
+            ],
+            "synonyms": "Principle, rule, tenet, canon.",
+            "meaning": "教义"
+        },
+        {
+            "examples": [
+                "I'm not sure I understand the company's doctrine.",
+                "The doctrine is basically our core values and beliefs. It's what guides our decisions and actions."
+            ],
+            "synonyms": "creed, philosophy, tenet",
+            "meaning": "教义"
+        },
+        {
+            "examples": [
+                "Have you read the new company doctrine?",
+                "No, I haven't had a chance yet. What does it say?"
+            ],
+            "synonyms": "Creed, principle, tenet",
+            "meaning": "教义"
+        }
+    ],
+    "conviction": [
+        {
+            "examples": [
+                "I admire your conviction when it comes to your work.",
+                "Thank you, it's something I take great pride in."
+            ],
+            "synonyms": "Resolve, determination, tenacity, commitment, dedication",
+            "meaning": "決心"
+        },
+        {
+            "examples": [
+                "I admire your conviction when it comes to your work.",
+                "Thank you, I'm very passionate about it."
+            ],
+            "synonyms": "Belief, faith, assurance, certitude, sureness, certainty",
+            "meaning": "信念"
+        },
+        {
+            "examples": [
+                "I'm really impressed with your conviction to complete this project.",
+                "Thank you! I'm determined to finish it on time."
+            ],
+            "synonyms": "determination, resolve, tenacity, persistence, grit",
+            "meaning": "坚定不移"
+        }
+    ],
+    "profound": [],
+    "prudent": [
+        {
+            "examples": [
+                "We need to be prudent with our spending if we want to make sure we stay in the black.",
+                "Absolutely. We need to be careful and judicious with our money."
+            ],
+            "synonyms": "careful, judicious, wise, circumspect, sage, canny.",
+            "meaning": "谨慎"
+        },
+        {
+            "examples": [
+                "We need to be prudent with our budget if we want to stay profitable.",
+                "I agree, we need to be careful with our spending."
+            ],
+            "synonyms": "judicious, wise, circumspect, cautious",
+            "meaning": "谨慎"
+        },
+        {
+            "examples": [
+                "We need to be prudent with how we allocate our resources.",
+                "Absolutely. We need to be wise and judicious with our spending."
+            ],
+            "synonyms": "wise, judicious, circumspect, cautious, careful, sagacious.",
+            "meaning": "明智的"
+        }
+    ],
+    "peril": [
+        {
+            "examples": [
+                "We must be careful with this new venture. It's fraught with peril.",
+                "Yes, I understand. We need to be mindful of the risks involved."
+            ],
+            "synonyms": "danger, hazard, jeopardy, risk",
+            "meaning": "危險"
+        },
+        {
+            "examples": [
+                "We need to take extra precautions in this situation. The peril is too great to ignore.",
+                "I agree. We need to be sure that we are doing everything we can to protect ourselves."
+            ],
+            "synonyms": "danger, hazard, jeopardy, risk",
+            "meaning": "危险"
+        },
+        {
+            "examples": [
+                "We need to be careful not to get too close to the edge of the cliff, the peril is too great.",
+                "I understand, we don't want to put ourselves in any danger. Let's take a few steps back."
+            ],
+            "synonyms": "danger, hazard, jeopardy, risk",
+            "meaning": "危险"
+        }
+    ],
+    "eminent": [
+        {
+            "examples": [
+                "I've heard that Professor Smith is an eminent scholar in his field.",
+                "Yes, he's highly respected in the academic community. His work is well-known and highly regarded."
+            ],
+            "synonyms": "distinguished, renowned, celebrated, famous, illustrious, notable, prominent",
+            "meaning": "著名"
+        },
+        {
+            "examples": [
+                "Have you heard about the eminent scientist, Dr. Smith?",
+                "Yes, I have. He's making quite a name for himself in the scientific community."
+            ],
+            "synonyms": "Distinguished, renowned, celebrated, illustrious, famous",
+            "meaning": "著名的"
+        },
+        {
+            "examples": [
+                "I heard that the eminent Dr. Smith will be speaking at the conference this year.",
+                "Yes, I heard that too! It's amazing to have such an esteemed figure in the field attending."
+            ],
+            "synonyms": "distinguished, renowned, celebrated, famed, illustrious, notable, prominent, famous.",
+            "meaning": "著名的"
+        }
+    ],
+    "toil": [
+        {
+            "examples": [
+                "I've been toiling away at this project for weeks now, and I'm still not finished.",
+                "That's dedication! What do you think is the best way to finish it?"
+            ],
+            "synonyms": "labor, grind, slog, drudge, travail, sweat.",
+            "meaning": "艰苦劳动"
+        },
+        {
+            "examples": [
+                "It's been a long day of toil.",
+                "Yes, and I'm exhausted. But it's worth it in the end."
+            ],
+            "synonyms": "labor, grind, drudgery, exertion, work.",
+            "meaning": "劳动; 辛苦."
+        },
+        {
+            "examples": [
+                "I have been toiling away on this project for days, and I'm still not finished!",
+                "That's too bad. It sounds like you've been putting in a lot of effort. Have you considered asking someone for help?"
+            ],
+            "synonyms": "labor, grind, drudgery, exertion",
+            "meaning": "辛苦"
+        }
+    ],
+    "disposition": [
+        {
+            "examples": [
+                "I'm sorry, but I'm not sure I'm comfortable with your disposition on this matter.",
+                "What exactly is the issue with my disposition?"
+            ],
+            "synonyms": "Attitude, outlook, stance, point of view",
+            "meaning": "态度"
+        },
+        {
+            "examples": [
+                "I appreciate your positive disposition during this difficult time.",
+                "Thank you. I'm trying to stay upbeat and focused on the future."
+            ],
+            "synonyms": "attitude, outlook, tendency, bent, frame of mind",
+            "meaning": "态度"
+        },
+        {
+            "examples": [
+                "I'm not sure what to do with the disposition of these assets.",
+                "We need to make sure that the assets are distributed in a way that is fair and equitable."
+            ],
+            "synonyms": "arrangement, allocation, allotment",
+            "meaning": "布局，分配，分配"
+        }
+    ],
+    "cardinal": [
+        {
+            "examples": [
+                "What do you think of the cardinal direction of the new office building?",
+                "I think it's great! It's very easy to find, since it's facing north."
+            ],
+            "synonyms": "Primary, central, main, essential",
+            "meaning": "主要的"
+        },
+        {
+            "examples": [
+                "Hey, did you hear about the cardinal rule that was just established?",
+                "No, what is it?",
+                "It's a rule that all employees must follow: no personal calls during office hours."
+            ],
+            "synonyms": "Primary, fundamental, essential, key, pivotal.",
+            "meaning": "基本原則"
+        },
+        {
+            "examples": [
+                "I'm a big fan of the cardinal red color.",
+                "I know, it's so vibrant and eye-catching!"
+            ],
+            "synonyms": "Primary, basic, central, fundamental, main.",
+            "meaning": "主要的，基本的，中心的，基础的，主要的。"
+        }
+    ],
+    "notwithstanding": [
+        {
+            "examples": [
+                "We have to move forward with the project, notwithstanding the challenges we may face.",
+                "Yes, I agree. We have to stay focused and motivated."
+            ],
+            "synonyms": "Despite, in spite of, nevertheless",
+            "meaning": "尽管"
+        },
+        {
+            "examples": [
+                "We need to move forward with this project notwithstanding the delays.",
+                "Absolutely, we can't let any obstacles stand in our way."
+            ],
+            "synonyms": "Despite, in spite of, nevertheless, even so",
+            "meaning": "尽管"
+        },
+        {
+            "examples": [
+                "We have a lot of work to do, notwithstanding the fact that we are short-staffed.",
+                "That's true, but we'll just have to make the best of it."
+            ],
+            "synonyms": "Despite, In spite of, Even with",
+            "meaning": "即使"
+        }
+    ],
+    "multitude": [
+        {
+            "examples": [
+                "We have to consider the multitude of options available to us.",
+                "Yes, it's important to explore all of our options before making a decision."
+            ],
+            "synonyms": "abundance, myriad, profusion, plethora, myriad.",
+            "meaning": "大量"
+        },
+        {
+            "examples": [
+                "I'm overwhelmed by the multitude of tasks I have to do today.",
+                "I hear you. It's a lot to take on. Do you need any help?"
+            ],
+            "synonyms": "a lot, a great deal, a multitude, a profusion, a plethora, a cornucopia, a flood, a swarm",
+            "meaning": "大量"
+        },
+        {
+            "examples": [
+                "We have a multitude of options to consider when it comes to our new marketing strategy.",
+                "That's great! What are some of the options we have?"
+            ],
+            "synonyms": "abundance, myriad, profusion, plethora, host",
+            "meaning": "大量"
+        }
+    ],
+    "heed": [
+        {
+            "examples": [
+                "We need to heed the advice of our financial advisor if we want to make sure our investments are successful.",
+                "I agree. We should definitely listen to their recommendations."
+            ],
+            "synonyms": "Pay attention, listen, observe, take notice",
+            "meaning": "注意"
+        },
+        {
+            "examples": [
+                "I'm sorry, I didn't heed your advice.",
+                "That's okay, but next time, please listen to what I have to say."
+            ],
+            "synonyms": "Pay attention to, take notice of, observe, listen to.",
+            "meaning": "注意"
+        },
+        {
+            "examples": [
+                "I urge you to heed my advice.",
+                "I understand, I'll take it into consideration."
+            ],
+            "synonyms": "Pay attention, take notice, listen, obey",
+            "meaning": "注意"
+        }
+    ],
+    "narrative": [
+        {
+            "examples": [
+                "I think we need to focus on the narrative of our business plan if we want to be successful.",
+                "Absolutely, the narrative is key to our success. What do you suggest?"
+            ],
+            "synonyms": "Story, account, tale, version",
+            "meaning": "故事"
+        },
+        {
+            "examples": [
+                "I think we should focus on the narrative of our company in our marketing campaign.",
+                "That's a great idea. What kind of narrative do you think will be most effective?"
+            ],
+            "synonyms": "Story, account, tale",
+            "meaning": "故事"
+        },
+        {
+            "examples": [
+                "I think we need to focus on the narrative of our product in order to engage our customers.",
+                "Agreed. We need to make sure our story resonates with them and drives them to action."
+            ],
+            "synonyms": "Story, account, tale",
+            "meaning": "故事"
+        }
+    ],
+    "concede": [
+        {
+            "examples": [
+                "I'm sorry, but I can't concede to your demands.",
+                "Why not? What is stopping you?"
+            ],
+            "synonyms": "yield, surrender, give in, accede, submit.",
+            "meaning": "承认；让步"
+        },
+        {
+            "examples": [
+                "I'm sorry, I can't agree to your terms.",
+                "Well, I'm willing to concede some of the points if it helps us reach a deal."
+            ],
+            "synonyms": "yield, bow, submit, capitulate, accede",
+            "meaning": "勉强同意；让步"
+        },
+        {
+            "examples": [
+                "I'm sorry, but I'm afraid I cannot concede to your request.",
+                "What do you mean? Why not?",
+                "It's just not something I'm willing to do. I'm sorry."
+            ],
+            "synonyms": "yield, accept, grant, acknowledge, allow",
+            "meaning": "承认"
+        }
+    ],
+    "confined": [
+        {
+            "examples": [
+                "I'm feeling quite confined in this office.",
+                "I understand, it can be a bit stifling in here. Would you like to take a break outside?"
+            ],
+            "synonyms": "restricted, limited, cramped, constricted",
+            "meaning": "受限的"
+        },
+        {
+            "examples": [
+                "I'm feeling so confined in this office all day.",
+                "I hear you. It can be hard to stay in the same place for too long."
+            ],
+            "synonyms": "restricted, limited, cramped, constricted",
+            "meaning": "受限制的"
+        },
+        {
+            "examples": [
+                "I'm feeling so confined in this office. I need to get out and stretch my legs!",
+                "I know what you mean. I feel the same way. Why don't we take a break and go for a walk?"
+            ],
+            "synonyms": "restricted, limited, cramped, enclosed, hemmed in",
+            "meaning": "局限"
+        }
+    ],
+    "startled": [
+        {
+            "examples": [
+                "I was so startled when I saw the snake in the garden!",
+                "That must have been a scary experience! Are you okay?"
+            ],
+            "synonyms": "shocked, surprised, startled, taken aback",
+            "meaning": "惊吓"
+        },
+        {
+            "examples": [
+                "Good morning! I'm so startled to see you here.",
+                "Good morning! I'm just as startled to see you. What brings you here?"
+            ],
+            "synonyms": "amazed, shocked, taken aback, startled, astounded",
+            "meaning": "惊讶"
+        }
+    ],
+    "subtle": [
+        {
+            "examples": [
+                "I think the new design is really subtle. It's not too overwhelming, but still makes a statement.",
+                "I agree! I think it's the perfect balance."
+            ],
+            "synonyms": "delicate, nuanced, faint, understated",
+            "meaning": "微妙的"
+        },
+        {
+            "examples": [
+                "I think the subtle changes we made to the design really brought out the beauty of the product.",
+                "Yes, I agree! I think the subtlety of the changes really made a difference."
+            ],
+            "synonyms": "Delicate, Faint, Gradual, Imperceptible",
+            "meaning": "微妙"
+        },
+        {
+            "examples": [
+                "I think the new design could use some subtle changes.",
+                "What kind of changes do you mean?"
+            ],
+            "synonyms": "delicate, nuanced, slight, fragile, faint.",
+            "meaning": "微妙的"
+        }
+    ],
+    "decree": [
+        {
+            "examples": [
+                "Did you hear about the new decree that was issued yesterday?",
+                "No, I didn't. What does it say?"
+            ],
+            "synonyms": "edict, ruling, command, mandate, order.",
+            "meaning": "命令"
+        },
+        {
+            "examples": [
+                "Did you hear about the new decree that was issued?",
+                "No, what decree?"
+            ],
+            "synonyms": "edict, order, command, proclamation",
+            "meaning": "法令"
+        },
+        {
+            "examples": [
+                "I heard that the government issued a decree that all businesses must close by 8 pm.",
+                "That's right. It's such a shame, but we have to abide by the decree."
+            ],
+            "synonyms": "edict, dictate, ruling, command, proclamation, mandate",
+            "meaning": "法令"
+        }
+    ],
+    "cite": [
+        {
+            "examples": [
+                "I need to cite this source in my paper.",
+                "No problem, just make sure you cite it correctly."
+            ],
+            "synonyms": "refer to, quote, mention, allude to",
+            "meaning": "引用"
+        }
+    ],
+    "reverence": [
+        {
+            "examples": [
+                "I have so much reverence for the work you do.",
+                "Thank you for your kind words. It means a lot to me."
+            ],
+            "synonyms": "admiration, awe, esteem, respect, veneration",
+            "meaning": "尊敬"
+        },
+        {
+            "examples": [
+                "I have a great reverence for the work that you do.",
+                "That's very kind of you to say. I appreciate your respect."
+            ],
+            "synonyms": "admiration, esteem, regard, veneration",
+            "meaning": "尊敬"
+        },
+        {
+            "examples": [
+                "I have great reverence for your work.",
+                "Thank you, I appreciate the sentiment."
+            ],
+            "synonyms": "admiration, awe, deference, esteem, honor, respect, veneration.",
+            "meaning": "尊重"
+        }
+    ],
+    "induced": [
+        {
+            "examples": [
+                "I heard that the company's success was induced by the new marketing campaign.",
+                "Yes, it was definitely a great success. We saw a huge increase in sales."
+            ],
+            "synonyms": "Caused, prompted, stimulated, spurred",
+            "meaning": "引起"
+        },
+        {
+            "examples": [
+                "I heard that the new regulations have induced a lot of economic changes.",
+                "Yes, it has been a huge shift for the industry."
+            ],
+            "synonyms": "provoked, stimulated, encouraged",
+            "meaning": "引起"
+        },
+        {
+            "examples": [
+                "Have you heard about the new induced labor technique?",
+                "No, what is it?"
+            ],
+            "synonyms": "forced, stimulated, provoked",
+            "meaning": "引发的"
+        }
+    ],
+    "descent": [
+        {
+            "examples": [
+                "I'm really impressed by the descent of the stock market.",
+                "Yes, it's been a great month for investors."
+            ],
+            "synonyms": "Decline, Drop, Fall, Plunge",
+            "meaning": "下降"
+        },
+        {
+            "examples": [
+                "I'm so impressed with the descent of the airplane.",
+                "Yes, the pilot did an excellent job navigating the aircraft."
+            ],
+            "synonyms": "decline, drop, plummet, fall",
+            "meaning": "下降"
+        },
+        {
+            "examples": [
+                "Did you see the descent of the space shuttle?",
+                "Yes, it was amazing. I was so impressed by the descent rate."
+            ],
+            "synonyms": "decline, drop, fall",
+            "meaning": "下降"
+        }
+    ],
+    "congregate": [
+        {
+            "examples": [
+                "Hey, let's all congregate at the office tomorrow morning for a meeting.",
+                "Sounds great! I'll be there."
+            ],
+            "synonyms": "assemble, gather, meet, unite",
+            "meaning": "集合"
+        },
+        {
+            "examples": [
+                "Hey, do you want to congregate with us for lunch today?",
+                "Sure, I'd love to."
+            ],
+            "synonyms": "assemble, gather, meet, unite",
+            "meaning": "集合"
+        },
+        {
+            "examples": [
+                "Hey, let's congregate at the café this afternoon.",
+                "Sounds great! What time should we meet?"
+            ],
+            "synonyms": "assemble, gather, meet, unite",
+            "meaning": "集合"
+        }
+    ],
+    "fortify": [
+        {
+            "examples": [
+                "We need to fortify our business strategy to ensure our success.",
+                "Absolutely. We need to make our strategy as strong as possible."
+            ],
+            "synonyms": "Strengthen, bolster, reinforce, secure, support",
+            "meaning": "加固"
+        },
+        {
+            "examples": [
+                "We need to fortify our business strategy if we want to stay competitive.",
+                "Absolutely. We can strengthen and reinforce our plan to ensure our success."
+            ],
+            "synonyms": "Strengthen, reinforce, secure, bolster, protect",
+            "meaning": "加强"
+        },
+        {
+            "examples": [
+                "We need to fortify our company's security protocols to protect our data.",
+                "I completely agree. We should take steps to strengthen our security measures."
+            ],
+            "synonyms": "Strengthen, Reinforce, Bolster, Secure",
+            "meaning": "加固"
+        }
+    ],
+    "venerate": [
+        {
+            "examples": [
+                "I really venerate your work ethic, it's inspiring.",
+                "Thank you, I appreciate that."
+            ],
+            "synonyms": "Respect, Admire, Revere, Honor, Glorify, Worship.",
+            "meaning": "尊敬"
+        },
+        {
+            "examples": [
+                "I've always venerated your accomplishments in business.",
+                "Thank you, that means a lot to me."
+            ],
+            "synonyms": "Respect, honor, revere, esteem, admire, worship.",
+            "meaning": "尊敬"
+        },
+        {
+            "examples": [
+                "I venerate your hard work and dedication to this project.",
+                "Thank you. I appreciate your recognition."
+            ],
+            "synonyms": "Respect, honor, revere, esteem, admire.",
+            "meaning": "尊敬"
+        }
+    ],
+    "harp": [
+        {
+            "examples": [
+                "Have you ever heard of the harp?",
+                "Yes, I'm familiar with the harp. It's a stringed instrument with a triangular frame."
+            ],
+            "synonyms": "Lyre, Zither, Dulcimer",
+            "meaning": "竖琴"
+        },
+        {
+            "examples": [
+                "I'm so impressed with your harp playing. You must have been practicing for a long time.",
+                "Thanks! I've been playing the harp for about five years now. It's a lot of fun."
+            ],
+            "synonyms": "Lyre, cithara, zither",
+            "meaning": "豎琴"
+        },
+        {
+            "examples": [
+                "I'm so impressed with your harp playing!",
+                "Thank you! I've been practicing for a while now."
+            ],
+            "synonyms": "Lyre, zither, lute",
+            "meaning": "豎琴"
+        }
+    ],
+    "resolute": [
+        {
+            "examples": [
+                "We need to be resolute in our plans for the new project.",
+                "I agree, we should remain firm and determined in our efforts."
+            ],
+            "synonyms": "determined, firm, unwavering, steadfast, unyielding",
+            "meaning": "坚决"
+        },
+        {
+            "examples": [
+                "I'm so impressed by your resolute attitude towards this project.",
+                "Thank you! I'm determined to see it through to the end."
+            ],
+            "synonyms": "Determined, Firm, Steadfast, Unwavering",
+            "meaning": "坚决的"
+        },
+        {
+            "examples": [
+                "We need to be resolute in our decision-making process.",
+                "I agree. We need to be firm, determined, and unwavering in our decisions."
+            ],
+            "synonyms": "Firm, determined, unwavering",
+            "meaning": "坚决"
+        }
+    ],
+    "forge": [],
+    "chronicle": [
+        {
+            "examples": [
+                "Have you read the chronicle of our company's history?",
+                "No, I haven't. What is it about?"
+            ],
+            "synonyms": "record, annal, narrative, account",
+            "meaning": "编年史"
+        }
+    ],
+    "perplexed": [
+        {
+            "examples": [
+                "I'm perplexed about what to do next.",
+                "What's the issue you're facing?"
+            ],
+            "synonyms": "Baffled, Confused, Bewildered, Mystified",
+            "meaning": "困惑"
+        },
+        {
+            "examples": [
+                "I'm perplexed by this new project. I'm not sure how to proceed.",
+                "Don't worry, I'm sure we can figure it out. What are you confused about?"
+            ],
+            "synonyms": "Baffled, Confused, Bewildered",
+            "meaning": "困惑"
+        },
+        {
+            "examples": [
+                "I'm perplexed by the new regulations.",
+                "I know, me too. It's a lot to take in."
+            ],
+            "synonyms": "Baffled, confused, mystified, stumped, bewildered.",
+            "meaning": "困惑"
+        }
+    ],
+    "satire": [
+        {
+            "examples": [
+                "Have you seen the new political satire on TV?",
+                "No, I haven't. What's it about?"
+            ],
+            "synonyms": "mockery, lampoon, parody, burlesque",
+            "meaning": "讽刺"
+        },
+        {
+            "examples": [
+                "Have you seen the latest movie? It's full of satire."
+            ],
+            "synonyms": "No, I haven't. What is satire?",
+            "meaning": "Satire is a type of humor that uses exaggeration and irony to make fun of or criticize something. Synonyms for satire include mockery, lampoon, and ridicule. In Chinese, satire is called 讽刺"
+        },
+        {
+            "examples": [
+                "Have you heard of the new satirical comedy series?",
+                "No, what's it about?"
+            ],
+            "synonyms": "irony, wit, sarcasm, lampoon, burlesque",
+            "meaning": "讽刺"
+        }
+    ],
+    "intrigue": [
+        {
+            "examples": [
+                "I'm intrigued by the new project you're working on. Can you tell me more about it?",
+                "Sure! It's a really exciting project that has been keeping me on my toes. It involves a lot of research and problem solving, which I find quite intriguing."
+            ],
+            "synonyms": "Fascinate, captivate, allure, beguile",
+            "meaning": "吸引"
+        },
+        {
+            "examples": [
+                "I'm so intrigued by this new project. It's really captivating!",
+                "Yes, I agree. It's definitely an interesting concept that has piqued my curiosity."
+            ],
+            "synonyms": "Fascinate, Captivate, Entice, Allure",
+            "meaning": "引起兴趣"
+        },
+        {
+            "examples": [
+                "I'm so intrigued by the new project that our company is working on. What do you know about it?",
+                "I know it's something to do with artificial intelligence, but the details are still a bit of a mystery. It's quite intriguing!"
+            ],
+            "synonyms": "Fascinate, captivate, allure, beguile.",
+            "meaning": "吸引，引起兴趣。"
+        }
+    ],
+    "crook": [
+        {
+            "examples": [
+                "Did you hear about that crook who was arrested for embezzlement?",
+                "Yeah, I heard about it. It's really sad that someone would stoop to such a low level."
+            ],
+            "synonyms": "criminal, swindler, thief, con artist",
+            "meaning": "盗贼"
+        },
+        {
+            "examples": [
+                "Did you hear about that crook who was caught stealing from the bank?",
+                "Yes, I did! They said he was a real criminal mastermind."
+            ],
+            "synonyms": "criminal, outlaw, scoundrel, villain, miscreant",
+            "meaning": "盗贼"
+        },
+        {
+            "examples": [
+                "Have you heard about the crook who stole from the bank?",
+                "Yes, I heard about it. What a shame! He must be a real criminal."
+            ],
+            "synonyms": "Thief, Swindler, Con Artist, Scoundrel",
+            "meaning": "盗贼"
+        }
+    ],
+    "antagonism": [
+        {
+            "examples": [
+                "I'm not sure why there's so much antagonism between our two companies.",
+                "I think it's because of the competitive nature of the industry. We both want to be the top dog."
+            ],
+            "synonyms": "hostility, antagonistic, enmity, animosity, acrimony",
+            "meaning": "敌意"
+        },
+        {
+            "examples": [
+                "I'm getting the sense that there's a lot of antagonism between our departments.",
+                "Yes, I think that's a fair assessment. We need to find a way to bridge the gap and work together more effectively."
+            ],
+            "synonyms": "Hostility, animosity, enmity, ill will, acrimony",
+            "meaning": "对抗"
+        },
+        {
+            "examples": [
+                "I'm concerned about the level of antagonism between our two departments.",
+                "Yes, it's been a bit tense lately. What do you think we should do?"
+            ],
+            "synonyms": "enmity, hostility, animosity, antagonistic, acrimony",
+            "meaning": "敌意"
+        }
+    ],
+    "falter": [
+        {
+            "examples": [
+                "I think our sales are starting to falter.",
+                "Yes, I've noticed that too. We need to come up with a plan to increase them quickly."
+            ],
+            "synonyms": "waver, stumble, hesitate, flounder",
+            "meaning": "动摇，蹒跚"
+        },
+        {
+            "examples": [
+                "I'm worried that our sales might falter this quarter.",
+                "That's a legitimate concern. What strategies do you think we should implement to prevent that?"
+            ],
+            "synonyms": "waver, stumble, flounder, falter",
+            "meaning": "衰退，衰弱"
+        },
+        {
+            "examples": [
+                "I'm worried that our sales may falter this quarter.",
+                "Yes, that's a valid concern. We need to come up with a strategy to make sure that doesn't happen."
+            ],
+            "synonyms": "waver, stumble, hesitate, stammer, flounder",
+            "meaning": "蹒跚"
+        }
+    ],
+    "dissent": [
+        {
+            "examples": [
+                "I'm afraid I must dissent with your opinion on this matter.",
+                "Why is that?",
+                "I think we should approach this from a different angle."
+            ],
+            "synonyms": "disagree, dispute, challenge, oppose, contradict, deny.",
+            "meaning": "反对，不同意。"
+        },
+        {
+            "examples": [
+                "I disagree with the plan, I think we should pursue a different course of action.",
+                "I understand your dissent, but I think this is the best way forward."
+            ],
+            "synonyms": "Disagreement, objection, protest, opposition",
+            "meaning": "反对"
+        },
+        {
+            "examples": [
+                "I disagree with your opinion on this issue.",
+                "What is your dissent?"
+            ],
+            "synonyms": "Disagreement, objection, opposition, protest.",
+            "meaning": "异议"
+        }
+    ],
+    "resentment": [
+        {
+            "examples": [
+                "I can sense a lot of resentment between us, and I don't think it's healthy for our relationship.",
+                "I understand, and I'm sorry. I don't want us to be filled with animosity and bitterness."
+            ],
+            "synonyms": "animosity, bitterness, animosity, enmity, hostility, rancor",
+            "meaning": "怨恨"
+        },
+        {
+            "examples": [
+                "I can sense there is a lot of resentment between us.",
+                "Yes, I'm feeling resentful about the way you've been treating me lately."
+            ],
+            "synonyms": "bitterness, animosity, rancor, indignation, acrimony",
+            "meaning": "怨恨"
+        },
+        {
+            "examples": [
+                "I can sense the resentment in your voice when you talk about that project.",
+                "Yes, I'm still feeling resentful about it. I feel like I was taken advantage of."
+            ],
+            "synonyms": "animosity, bitterness, grudge, rancor",
+            "meaning": "怨恨"
+        }
+    ],
+    "paved": [
+        {
+            "examples": [
+                "Hey, did you hear that the city is paving the roads in our neighborhood?",
+                "No, I hadn't heard that. That's great news! It will make it much easier to get around."
+            ],
+            "synonyms": "paved, surfaced, covered",
+            "meaning": "铺设"
+        },
+        {
+            "examples": [
+                "I'm so glad we were able to pave the way for this new project.",
+                "Yes, it was certainly a lot of hard work, but it was worth it in the end."
+            ],
+            "synonyms": "Smooth, level, coat, surface.",
+            "meaning": "铺设"
+        }
+    ],
+    "yearn": [],
+    "analogy": [
+        {
+            "examples": [
+                "I'm having trouble understanding this concept. Can you explain it to me using an analogy?",
+                "Sure. Think of it like a map. Just like a map helps you find your destination, this concept will help you reach your goal."
+            ],
+            "synonyms": "comparison, parallel, simile, metaphor",
+            "meaning": "比喻"
+        },
+        {
+            "examples": [
+                "I'm having trouble understanding this concept. Can you explain it to me using an analogy?",
+                "Sure. Think of it like this: it's like a jigsaw puzzle. All the pieces need to fit together in order to make a complete picture."
+            ],
+            "synonyms": "Metaphor, simile, comparison.",
+            "meaning": "比喻。"
+        },
+        {
+            "examples": [
+                "I'm having a hard time understanding this concept. Can you explain it to me using an analogy?",
+                "Sure! Think of it like this: It's like a puzzle. All the pieces have to fit together in order to complete the picture."
+            ],
+            "synonyms": "Metaphor, simile, parable, allegory",
+            "meaning": "比喻"
+        }
+    ],
+    "venerable": [
+        {
+            "examples": [
+                "Have you heard of the venerable company, Smith and Sons?",
+                "Yes, of course! They have been around for ages and have a great reputation."
+            ],
+            "synonyms": "respected, esteemed, honored",
+            "meaning": "尊敬的"
+        },
+        {
+            "examples": [
+                "Good morning, it's a pleasure to meet you. I've heard great things about your venerable business.",
+                "Thank you, it's been around for a long time. We've been in this industry for decades."
+            ],
+            "synonyms": "respected, esteemed, distinguished, venerable.",
+            "meaning": "尊崇的，受尊敬的。"
+        },
+        {
+            "examples": [
+                "Have you heard of the venerable institution of Harvard University?",
+                "Of course! It's one of the most respected and esteemed universities in the world."
+            ],
+            "synonyms": "honorable, esteemed, respected, august, distinguished, revered.",
+            "meaning": "尊崇的"
+        }
+    ],
+    "anecdote": [
+        {
+            "examples": [
+                "Hey, do you have any funny anecdotes to share?",
+                "Sure, I have a great one. So there was this guy who was walking through the woods, and he stumbled across a bear."
+            ],
+            "synonyms": "story, tale, yarn, narrative",
+            "meaning": "轶事"
+        },
+        {
+            "examples": [
+                "Hey, did you hear the anecdote about the CEO who was late to a meeting?",
+                "No, tell me!",
+                "A story, typically of a humorous or amusing nature, that is usually based on real incidents."
+            ],
+            "synonyms": "Tale, yarn, narrative, story, legend, saga, chronicle, account.",
+            "meaning": "趣闻"
+        },
+        {
+            "examples": [
+                "Hey, did you hear the anecdote about the two cats?",
+                "No, what is it?",
+                "So, two cats were walking down the street and one cat said to the other, \"You know, life is really hard.\" The other cat replied, \"That's nothing, you should try having paws!"
+            ],
+            "synonyms": "Story, tale, yarn, legend",
+            "meaning": "轶事"
+        }
+    ],
+    "dwarf": [
+        {
+            "examples": [
+                "Hey, did you see that dwarf at the party last night?",
+                "Yeah, he was really funny! I had a great time talking to him."
+            ],
+            "synonyms": "midget, pygmy, gnome",
+            "meaning": "侏儒"
+        },
+        {
+            "examples": [
+                "I heard you're looking for a dwarf to play a part in your movie?",
+                "Yes, that's right. We need a small actor to play a dwarf in the movie."
+            ],
+            "synonyms": "midget, little person, nanism",
+            "meaning": "矮子"
+        },
+        {
+            "examples": [
+                "I heard that the dwarves in the kingdom are having a difficult time.",
+                "Yes, it's true. They're struggling to find resources to sustain their livelihood."
+            ],
+            "synonyms": "midget, gnome, little person",
+            "meaning": "矮人"
+        }
+    ],
+    "notorious": [
+        {
+            "examples": [
+                "Have you heard of the notorious criminal, Jack Smith?",
+                "Yes, he's quite infamous."
+            ],
+            "synonyms": "Infamous, well-known, celebrated, renowned.",
+            "meaning": "臭名昭著"
+        },
+        {
+            "examples": [
+                "Have you heard of the notorious hacker group that's been making headlines lately?",
+                "Yes, I have. They seem to be quite infamous for their cyberattacks."
+            ],
+            "synonyms": "Infamous, renowned, celebrated, eminent, distinguished, famed, illustrious, noted, renowned.",
+            "meaning": "臭名昭著"
+        },
+        {
+            "examples": [
+                "Have you heard about the notorious criminal who escaped from prison last week?",
+                "Yes, I have. Everyone is talking about it. He's become quite notorious."
+            ],
+            "synonyms": "Infamous, renowned, celebrated, prominent, renowned, distinguished, well-known.",
+            "meaning": "臭名昭著."
+        }
+    ],
+    "precipitate": [
+        {
+            "examples": [
+                "We need to act quickly before the situation precipitates.",
+                "I agree, let's start working on a plan now."
+            ],
+            "synonyms": "hasten, accelerate, speed up.",
+            "meaning": "加速，促进"
+        },
+        {
+            "examples": [
+                "We need to take action on this project now to avoid any precipitate issues.",
+                "Agreed. We should move forward with the plan as soon as possible."
+            ],
+            "synonyms": "Hasten, Rush, Accelerate",
+            "meaning": "加速"
+        },
+        {
+            "examples": [
+                "We need to take action now to prevent the situation from precipitating.",
+                "Yes, we must act quickly to avoid any further complications."
+            ],
+            "synonyms": "hasten, accelerate, expedite, rush",
+            "meaning": "加速"
+        }
+    ],
+    "precedent": [
+        {
+            "examples": [
+                "We need to consider setting a precedent for how we handle this situation.",
+                "What do you mean by that?"
+            ],
+            "synonyms": "Example, Pattern, Model",
+            "meaning": "先例"
+        },
+        {
+            "examples": [
+                "We need to set a precedent for the future.",
+                "What do you mean by that?"
+            ],
+            "synonyms": "Example, Pattern, Standard",
+            "meaning": "先例"
+        },
+        {
+            "examples": [
+                "We have to be careful about setting a precedent here.",
+                "What do you mean by that?"
+            ],
+            "synonyms": "Precedent: Example, Pattern, Model.",
+            "meaning": "先例"
+        }
+    ],
+    "ratify": [
+        {
+            "examples": [
+                "We need to ratify the contract before it can take effect.",
+                "Yes, let's do that right away. I'll get the paperwork ready."
+            ],
+            "synonyms": "Confirm, Validate, Approve",
+            "meaning": "批准"
+        },
+        {
+            "examples": [
+                "We need to ratify this agreement before we can move forward.",
+                "Yes, I understand. I'll get the paperwork together right away."
+            ],
+            "synonyms": "Confirm, validate, sanction, approve",
+            "meaning": "批准"
+        },
+        {
+            "examples": [
+                "We need to ratify the contract before we can move forward with the project.",
+                "Yes, of course. Let's get it done as soon as possible."
+            ],
+            "synonyms": "affirm, confirm, approve, validate, sanction",
+            "meaning": "批准"
+        }
+    ],
+    "baffle": [
+        {
+            "examples": [
+                "I'm so baffled by this new project.",
+                "Yeah, it's pretty complicated."
+            ],
+            "synonyms": "mystify, perplex, confuse, bewilder",
+            "meaning": "困惑"
+        },
+        {
+            "examples": [
+                "I'm really baffled by this project. It's so complicated!",
+                "Yeah, it can be difficult to wrap your head around. Do you need help?"
+            ],
+            "synonyms": "mystify, perplex, confound, bewilder, befuddle",
+            "meaning": "迷惑"
+        },
+        {
+            "examples": [
+                "Hey, I'm so baffled by this project.",
+                "Yeah, it's a tough one."
+            ],
+            "synonyms": "Perplex, confuse, mystify, bewilder",
+            "meaning": "困惑"
+        }
+    ],
+    "discreet": [
+        {
+            "examples": [
+                "I need to discuss something with you, but I need to be discreet about it.",
+                "Of course, I understand. What do you need to talk about?"
+            ],
+            "synonyms": "circumspect, prudent, careful, guarded, reticent",
+            "meaning": "慎重的"
+        }
+    ],
+    "pertinent": [
+        {
+            "examples": [
+                "I believe the most pertinent information we need to discuss is the timeline for the project.",
+                "Yes, that is a key point. We need to ensure that we are all on the same page in terms of the timeline."
+            ],
+            "synonyms": "relevant, applicable, material, appropriate, germane",
+            "meaning": "相关的"
+        },
+        {
+            "examples": [
+                "Hello, I'm here to discuss the pertinent details of the project.",
+                "Yes, of course. What information do you need?"
+            ],
+            "synonyms": "relevant, applicable, material, significant, appropriate",
+            "meaning": "相关的"
+        },
+        {
+            "examples": [
+                "Have you gathered all the pertinent information for the report?",
+                "Yes, I have. I think I have included all the relevant information."
+            ],
+            "synonyms": "Relevant, Appropriate, Suitable, Applicable",
+            "meaning": "相关的"
+        }
+    ],
+    "confederate": [
+        {
+            "examples": [
+                "I heard that the company is planning to hire a confederate to help with the project.",
+                "Yes, that's right. We need someone with experience and knowledge to help us move forward."
+            ],
+            "synonyms": "ally, associate, partner, comrade",
+            "meaning": "同盟者"
+        },
+        {
+            "examples": [
+                "Hey, I heard that you're organizing a confederate event. Is that right?",
+                "Yes, that's right. We're planning a big gathering to commemorate the confederate cause."
+            ],
+            "synonyms": "Alliance, coalition, union",
+            "meaning": "联盟"
+        }
+    ],
+    "accede": [
+        {
+            "examples": [
+                "I'm sorry, but I'm not willing to accede to your request.",
+                "What would it take for you to change your mind?"
+            ],
+            "synonyms": "Agree, Consent, Assent",
+            "meaning": "同意"
+        },
+        {
+            "examples": [
+                "I hope you can accede to my request.",
+                "What is it that you need?"
+            ],
+            "synonyms": "agree, assent, comply, concur, consent, yield",
+            "meaning": "同意"
+        },
+        {
+            "examples": [
+                "I'm sorry, but I'm not able to accede to your request.",
+                "Can you explain why?"
+            ],
+            "synonyms": "agree, assent, comply, concur, accept, yield",
+            "meaning": "同意"
+        }
+    ],
+    "exaggerated": [
+        {
+            "examples": [
+                "I think the reports of the new product launch were a bit exaggerated.",
+                "What do you mean? It sounded like a great success!"
+            ],
+            "synonyms": "overstated, overblown, over-embellished, over-exaggerated",
+            "meaning": "夸张"
+        },
+        {
+            "examples": [
+                "I think the report was a bit exaggerated.",
+                "What do you mean by that?"
+            ],
+            "synonyms": "Overstated, magnified, embellished, inflated.",
+            "meaning": "夸大的"
+        },
+        {
+            "examples": [
+                "I think the media has been exaggerating the effects of the pandemic.",
+                "I agree. It can be difficult to separate fact from fiction sometimes."
+            ],
+            "synonyms": "overstated, overblown, over-amplified, over-emphasized",
+            "meaning": "夸大"
+        }
+    ],
+    "contemplation": [
+        {
+            "examples": [
+                "I've been in deep contemplation about the future of our business.",
+                "What have you come to conclude?"
+            ],
+            "synonyms": "musing, pondering, rumination, reflection",
+            "meaning": "沉思"
+        },
+        {
+            "examples": [
+                "I'm in deep contemplation about the next steps I should take in my career.",
+                "That's a tricky situation. What kind of options are you considering?"
+            ],
+            "synonyms": "meditation, rumination, musing",
+            "meaning": "沉思"
+        },
+        {
+            "examples": [
+                "I've been doing a lot of contemplation lately about the future of our company.",
+                "That's understandable. What have you been thinking about?"
+            ],
+            "synonyms": "musing, rumination, meditation, reflection, cogitation",
+            "meaning": "沉思"
+        }
+    ],
+    "austere": [
+        {
+            "examples": [
+                "This office is so austere. Is there anything we can do to make it more inviting?",
+                "Yes, we could add some plants and artwork to bring some life to the space."
+            ],
+            "synonyms": "stern, severe, rigorous, ascetic, Spartan",
+            "meaning": "嚴格的"
+        },
+        {
+            "examples": [
+                "I'm not sure I like the new office design. It's so austere.",
+                "I understand. It's a bit too minimalistic for my taste. But it does have a certain charm."
+            ],
+            "synonyms": "severe, stark, spartan, ascetic, stern",
+            "meaning": "嚴峻的"
+        },
+        {
+            "examples": [
+                "I'm not sure if I'm ready for the austere lifestyle.",
+                "It's not as bad as it seems. Austere means having a simple and plain style, which isn't necessarily a bad thing."
+            ],
+            "synonyms": "spartan, ascetic, abstemious, plain, simple.",
+            "meaning": ""
+        }
+    ],
+    "conscientious": [
+        {
+            "examples": [
+                "I'm really impressed with your work ethic. You seem to be very conscientious in your approach to tasks.",
+                "Thank you! I always try to be as thorough and diligent as possible."
+            ],
+            "synonyms": "scrupulous, responsible, thorough, punctilious, meticulous",
+            "meaning": "认真负责"
+        },
+        {
+            "examples": [
+                "I'm really impressed with your work ethic. You're so conscientious!",
+                "Thank you! I take a lot of pride in my work and strive to do my best."
+            ],
+            "synonyms": "careful, thorough, diligent, scrupulous",
+            "meaning": "认真的"
+        },
+        {
+            "examples": [
+                "I'm so impressed with your work. You're so conscientious!",
+                "Thank you! I always try to give my best effort."
+            ],
+            "synonyms": "scrupulous, diligent, punctilious, careful, fastidious",
+            "meaning": "认真负责"
+        }
+    ],
+    "treacherous": [
+        {
+            "examples": [
+                "This project is turning out to be more treacherous than I anticipated.",
+                "Yes, it's definitely not easy. We'll have to be extra careful."
+            ],
+            "synonyms": "treacherous, treacherous, deceitful, perfidious, faithless.",
+            "meaning": "背叛的，不忠的。"
+        },
+        {
+            "examples": [
+                "This project is turning out to be more treacherous than I expected.",
+                "Yes, I know. It's been difficult to navigate the obstacles we've encountered."
+            ],
+            "synonyms": "treacherous, treacherous, dangerous, hazardous, treacherous, treacherous.",
+            "meaning": "危险的，不可靠的"
+        },
+        {
+            "examples": [
+                "This market is so treacherous. We should be careful with our investments.",
+                "Agreed. It's hard to know what the right move is."
+            ],
+            "synonyms": "Unreliable, treacherous, treacherous, deceitful, treacherous, perfidious.",
+            "meaning": "危险的"
+        }
+    ],
+    "trivial": [
+        {
+            "examples": [
+                "I don't think this issue is trivial. We need to take it seriously.",
+                "Agreed. We need to make sure we address it properly."
+            ],
+            "synonyms": "minor, unimportant, insignificant",
+            "meaning": "微不足道"
+        },
+        {
+            "examples": [
+                "I'm so tired of dealing with these trivial matters. It's taking up too much of my time.",
+                "I understand, trivial matters can be quite time-consuming. What can we do to streamline the process?"
+            ],
+            "synonyms": "Insignificant, minor, unimportant",
+            "meaning": "微不足道"
+        },
+        {
+            "examples": [
+                "I don't think this issue is trivial, we need to take it seriously.",
+                "Agreed, this isn't a minor issue. Let's come up with a plan of action."
+            ],
+            "synonyms": "insignificant, minor, unimportant, inconsequential",
+            "meaning": "微不足道"
+        }
+    ],
+    "industrious": [
+        {
+            "examples": [
+                "You've been so industrious lately. I'm really impressed with all the hard work you've been putting in.",
+                "Thanks! It's really been paying off. I'm glad I've been able to stay motivated."
+            ],
+            "synonyms": "Diligent, hardworking, assiduous",
+            "meaning": "勤勉"
+        },
+        {
+            "examples": [
+                "You've been so industrious lately! What have you been working on?",
+                "I've been developing a new software program for my company. It's been a lot of work, but I'm really proud of the progress I've made."
+            ],
+            "synonyms": "Diligent, hardworking, assiduous",
+            "meaning": "勤奋的"
+        },
+        {
+            "examples": [
+                "You've been so industrious lately! I'm really impressed with the progress you've made.",
+                "Thank you! I'm just trying to make the most of my time and be as productive as possible."
+            ],
+            "synonyms": "Diligent, hardworking, assiduous",
+            "meaning": "勤奋"
+        }
+    ],
+    "naught": [
+        {
+            "examples": [
+                "I'm sorry, I was naught but a few minutes late.",
+                "It's alright. I understand."
+            ],
+            "synonyms": "None, Zero, Zip",
+            "meaning": "沒有"
+        },
+        {
+            "examples": [
+                "I'm sorry, I'm afraid I haven't been able to make any progress on this project.",
+                "That's quite all right, don't worry about it. Naught is lost."
+            ],
+            "synonyms": "Zero, nil, nothing, zilch.",
+            "meaning": "零"
+        },
+        {
+            "examples": [
+                "I'm afraid I have naught to say on the matter.",
+                "That's a shame. Is there anything else you can think of?"
+            ],
+            "synonyms": "Nothing, zero, nil",
+            "meaning": "没有"
+        }
+    ],
+    "contention": [
+        {
+            "examples": [
+                "I'm not sure I agree with your contention that we should cut back on marketing expenses.",
+                "Well, I think it's a necessary step if we want to remain profitable."
+            ],
+            "synonyms": "Dispute, disagreement, argument, quarrel, debate, altercation.",
+            "meaning": "争论"
+        },
+        {
+            "examples": [
+                "I'm not sure we can agree on this point. It seems like there's a lot of contention between us.",
+                "Yes, I'm afraid that's true. What do you suggest we do to resolve this?"
+            ],
+            "synonyms": "Dispute, disagreement, conflict, friction, discord, strife",
+            "meaning": "争端"
+        },
+        {
+            "examples": [
+                "I'm sure you can understand my contention that we need to invest more in the company.",
+                "Yes, I understand your point of view. But I think we should consider other options first before making a decision."
+            ],
+            "synonyms": "Dispute, Argument, Debate, Conflict",
+            "meaning": "争论"
+        }
+    ],
+    "anarchy": [
+        {
+            "examples": [
+                "I think this company is in a state of anarchy.",
+                "What do you mean by that?"
+            ],
+            "synonyms": "chaos, lawlessness, disorder",
+            "meaning": "混沌; 无政府状态; 无法纪律"
+        },
+        {
+            "examples": [
+                "I'm concerned about the level of anarchy in our society these days.",
+                "Yes, it's a real problem. We need to work together to find a solution."
+            ],
+            "synonyms": "chaos, lawlessness, disorder",
+            "meaning": "混沌無權"
+        },
+        {
+            "examples": [
+                "Have you heard about the recent rise in anarchy?",
+                "Yes, I have. It's quite concerning."
+            ],
+            "synonyms": "chaos, lawlessness, tumult, bedlam",
+            "meaning": "无政府状态"
+        }
+    ],
+    "articulate": [
+        {
+            "examples": [
+                "I really appreciate how articulate you are when you present your ideas.",
+                "Thank you. I try to be as clear and precise as possible when speaking."
+            ],
+            "synonyms": "eloquent, expressive, lucid, lucid, perspicuous, precise",
+            "meaning": "清晰地表达"
+        },
+        {
+            "examples": [
+                "I appreciate your ability to articulate your thoughts so clearly.",
+                "Thank you. I'm glad I can express myself in a way that is easy to understand."
+            ],
+            "synonyms": "Express, state, verbalize, utter, proclaim, enunciate.",
+            "meaning": "清晰地表达"
+        },
+        {
+            "examples": [
+                "I'm impressed with your ability to articulate your ideas so clearly.",
+                "Thank you! I've worked hard to make sure my thoughts are expressed properly."
+            ],
+            "synonyms": "Express, state, utter, verbalize",
+            "meaning": "表达，阐明"
+        }
+    ],
+    "patriarch": [
+        {
+            "examples": [
+                "It's amazing to see how the patriarch of this company has been able to keep it successful for so many years.",
+                "Yes, he's been a great leader. He's really set the tone for the whole organization."
+            ],
+            "synonyms": "ancestor, forefather, progenitor",
+            "meaning": "家长"
+        },
+        {
+            "examples": [
+                "I'm so impressed by the patriarch of this family. He's been such a strong leader.",
+                "Yes, he really is a paragon of strength and wisdom. He's been a great example for us all."
+            ],
+            "synonyms": "Paragon, Leader, Guide, Mentor.",
+            "meaning": "家长"
+        },
+        {
+            "examples": [
+                "I'm so inspired by the patriarch of our company. He has been leading the business for over 20 years!",
+                "Yes, he is truly a remarkable leader. His wisdom and guidance have been invaluable to our success."
+            ],
+            "synonyms": "forefather, ancestor, progenitor",
+            "meaning": "家长"
+        }
+    ],
+    "consummate": [
+        {
+            "examples": [
+                "I'm so proud of our team for completing the project. It was a consummate effort.",
+                "I agree! Everyone worked so hard to make it happen. We should celebrate!"
+            ],
+            "synonyms": "Perfect, complete, flawless, ideal",
+            "meaning": "完美的"
+        },
+        {
+            "examples": [
+                "I'm so glad to have found a consummate professional to help me with this project!",
+                "It's my pleasure. I'm happy to be of service!"
+            ],
+            "synonyms": "Perfect, complete, accomplished, expert.",
+            "meaning": "完美的"
+        },
+        {
+            "examples": [
+                "I am so pleased with the consummate job you did on this project.",
+                "Thank you. I'm glad you're happy with the results."
+            ],
+            "synonyms": "perfect, complete, flawless, ideal.",
+            "meaning": "完美"
+        }
+    ],
+    "foster": [
+        {
+            "examples": [
+                "I think we should foster a more collaborative work environment in our office.",
+                "Yes, I agree. We need to create a space where everyone can work together and share ideas."
+            ],
+            "synonyms": "Encourage, promote, nurture, support",
+            "meaning": "培养，支持"
+        },
+        {
+            "examples": [
+                "I'm so proud of my daughter for fostering a sense of community in her school.",
+                "That's amazing! It's really important to foster a sense of belonging in any environment."
+            ],
+            "synonyms": "cultivate, nurture, encourage, promote, stimulate, develop.",
+            "meaning": "培养"
+        },
+        {
+            "examples": [
+                "I'm so excited to be fostering a new puppy!",
+                "That's great! What kind of pup did you get?"
+            ],
+            "synonyms": "Nurture, Encourage, Promote",
+            "meaning": "培育"
+        }
+    ],
+    "abate": [
+        {
+            "examples": [
+                "I'm sorry, but the noise from our construction site is still abating.",
+                "That's unfortunate. Is there anything we can do to speed up the process?"
+            ],
+            "synonyms": "decrease, diminish, reduce, subside.",
+            "meaning": "减少，减弱，减少，减弱。"
+        },
+        {
+            "examples": [
+                "I'm worried that the cost of our project is going to abate our profits.",
+                "Yes, that is a valid concern. We need to find ways to reduce our expenses and abate the cost of the project."
+            ],
+            "synonyms": "Reduce, diminish, decrease, lower",
+            "meaning": "减少，减轻"
+        },
+        {
+            "examples": [
+                "We need to find a way to abate the costs of production.",
+                "Yes, I agree. We should look into ways to reduce the expenses."
+            ],
+            "synonyms": "diminish, decrease, reduce, subside, lessen.",
+            "meaning": "减少，缓解。"
+        }
+    ],
+    "slew": [
+        {
+            "examples": [
+                "I'm looking for a new job, and I have a slew of applications out.",
+                "That's great! How many have you sent out?"
+            ],
+            "synonyms": "multitude, mass, host, abundance, profusion",
+            "meaning": "大量"
+        },
+        {
+            "examples": [
+                "We have a slew of tasks to complete today, so let's get started!",
+                "Agreed, we don't want to fall behind!"
+            ],
+            "synonyms": "multitude, mass, heap, lot",
+            "meaning": "大量"
+        },
+        {
+            "examples": [],
+            "synonyms": "I'm so overwhelmed with all the tasks I have to do! It's a real slew!",
+            "meaning": "I hear you. A slew is a lot of things, and it can be overwhelming. You can also say 'a great deal', 'a multitude', or 'a vast amount'. In Chinese, it's 很多"
+        }
+    ],
+    "transcend": [
+        {
+            "examples": [
+                "I think we need to transcend our current limitations and think of new ideas for our business.",
+                "I agree. We need to think outside the box and come up with innovative solutions."
+            ],
+            "synonyms": "surpass, excel, outdo, exceed",
+            "meaning": "超越"
+        },
+        {
+            "examples": [
+                "I think our company needs to transcend the traditional methods of doing business.",
+                "Yes, I agree. We need to find new ways to stay competitive and keep up with the changing market."
+            ],
+            "synonyms": "exceed, surpass, outdo, exceed, outshine",
+            "meaning": "超越"
+        },
+        {
+            "examples": [
+                "We need to transcend our current way of thinking in order to move forward.",
+                "I agree, we need to think outside the box and come up with innovative solutions."
+            ],
+            "synonyms": "Surpass, exceed, outdo, outstrip, overtake, top",
+            "meaning": "超越"
+        }
+    ],
+    "destitute": [
+        {
+            "examples": [
+                "I'm so sorry to hear about your family's financial situation. It must be difficult to be destitute.",
+                "Yes, it's been really tough. We've had to make a lot of sacrifices to get by."
+            ],
+            "synonyms": "impoverished, needy, impecunious, penniless",
+            "meaning": "贫穷"
+        },
+        {
+            "examples": [
+                "I heard there's an organization that helps destitute people in our community.",
+                "That's great to hear! What kind of help do they provide?"
+            ],
+            "synonyms": "impoverished, needy, penniless, bankrupt.",
+            "meaning": "贫穷的"
+        },
+        {
+            "examples": [
+                "It's so sad to see so many destitute people in our city.",
+                "Yes, it's heartbreaking. We should do what we can to help them."
+            ],
+            "synonyms": "impoverished, needy, penniless, beggared, bankrupt",
+            "meaning": "贫穷的"
+        }
+    ],
+    "sagacity": [
+        {
+            "examples": [
+                "I'm so impressed by your sagacity!",
+                "Thank you, I try to stay informed and make wise decisions."
+            ],
+            "synonyms": "Wisdom, insight, shrewdness, intelligence, acumen",
+            "meaning": "智慧"
+        },
+        {
+            "examples": [
+                "I'm really impressed with your sagacity in making this decision.",
+                "Thank you. I'm glad you think so."
+            ],
+            "synonyms": "wisdom, discernment, prudence",
+            "meaning": "智慧"
+        },
+        {
+            "examples": [
+                "I'm so impressed with your sagacity. You always seem to make the right decisions.",
+                "Thank you. I try to use my wisdom and experience to make the best choices I can."
+            ],
+            "synonyms": "wisdom, discernment, insight, shrewdness",
+            "meaning": "智慧"
+        }
+    ],
+    "strenuous": [
+        {
+            "examples": [
+                "This project has been quite strenuous, hasn't it?",
+                "Yes, it has been quite a challenge. I think we have done a great job so far though!"
+            ],
+            "synonyms": "arduous, laborious, onerous, taxing, difficult",
+            "meaning": "艰苦"
+        },
+        {
+            "examples": [
+                "I'm so exhausted from this week's work. It was really strenuous!",
+                "I hear you. It's been a tough week for everyone. What do you need to do to relax?"
+            ],
+            "synonyms": "arduous, demanding, exhausting, laborious, onerous, taxing, toilsome.",
+            "meaning": "费力的"
+        },
+        {
+            "examples": [
+                "I'm feeling a bit overwhelmed after this strenuous day at work.",
+                "I understand, it's been a long and difficult day. Why don't you take a break and relax?"
+            ],
+            "synonyms": "Laborious, arduous, taxing, onerous, strenuous",
+            "meaning": "劳累的"
+        }
+    ],
+    "laborious": [
+        {
+            "examples": [
+                "This project has been so laborious. I don't think I can finish it in time.",
+                "I understand. Why don't we split the work and try to finish it together? That way it won't be so tedious."
+            ],
+            "synonyms": "tedious, exhausting, burdensome, onerous",
+            "meaning": "费力的"
+        },
+        {
+            "examples": [
+                "This project is really laborious. I'm not sure I can finish it on time.",
+                "I understand. It's a lot of work, but if we break it down into smaller tasks, it should be easier to manage."
+            ],
+            "synonyms": "arduous, onerous, strenuous, toilsome",
+            "meaning": "艰苦的"
+        }
+    ],
+    "rustic": [
+        {
+            "examples": [
+                "This restaurant has a really rustic feel to it.",
+                "Yeah, it's really cozy. I love the wooden furniture and the warm colors."
+            ],
+            "synonyms": "rural, countrified, bucolic, pastoral, homespun",
+            "meaning": "乡村的, 地方的, 乡土的"
+        },
+        {
+            "examples": [
+                "What do you think of this rustic kitchen design?",
+                "I love it! The rustic style gives it a cozy and homey feel."
+            ],
+            "synonyms": "rural, homespun, primitive, countrified",
+            "meaning": "乡村"
+        },
+        {
+            "examples": [
+                "I'm thinking of decorating my home in a rustic style. What do you think?",
+                "I think that's a great idea! Rustic decor is cozy and charming. It would be perfect for your home."
+            ],
+            "synonyms": "antique, primitive, rural, homespun, bucolic",
+            "meaning": "鄉村風格的"
+        }
+    ],
+    "insistent": [
+        {
+            "examples": [
+                "I'm sorry, I can't do that. It's too much of a risk.",
+                "But why? I'm being very insistent about this."
+            ],
+            "synonyms": "Persistent, adamant, determined, resolute.",
+            "meaning": "坚持不懈的"
+        },
+        {
+            "examples": [
+                "I'm sorry, but I'm going to have to be insistent about this. We need to discuss this issue further.",
+                "Alright, I understand. What would you like to talk about?"
+            ],
+            "synonyms": "persistent, adamant, determined, obstinate",
+            "meaning": "坚持的"
+        },
+        {
+            "examples": [
+                "I'm sorry, but I can't agree to your request. I'm afraid I'm going to have to be insistent on this one.",
+                "What do you mean? Why are you so insistent on this?",
+                "Because I think it's the best decision for the company. I'm not going to budge on this one."
+            ],
+            "synonyms": "Persistent, dogged, determined, resolute.",
+            "meaning": "坚持的。"
+        }
+    ],
+    "impertinent": [
+        {
+            "examples": [
+                "I'm sorry, I didn't mean to be so impertinent.",
+                "It's okay, don't worry about it."
+            ],
+            "synonyms": "insolent, audacious, presumptuous, forward.",
+            "meaning": "粗鲁的"
+        },
+        {
+            "examples": [
+                "I'm sorry, I don't understand why you're being so impertinent.",
+                "I'm simply trying to make a point."
+            ],
+            "synonyms": "insolent, impertinent, audacious, cheeky",
+            "meaning": "无礼的"
+        },
+        {
+            "examples": [
+                "I'm sorry, but I can't help you with that. It's really quite impertinent of you to ask.",
+                "What do you mean?",
+                "I mean that it was not appropriate for you to ask me for that kind of help. It was out of line."
+            ],
+            "synonyms": "insolent, impudent, audacious, brazen, presumptuous",
+            "meaning": "冒昧，无礼"
+        }
+    ],
+    "rigor": [
+        {
+            "examples": [
+                "I'm really impressed by the rigor you put into your work.",
+                "Thank you! I believe that hard work and dedication are essential for success."
+            ],
+            "synonyms": "strictness, severity, exactness, precision, austerity.",
+            "meaning": "严格。"
+        },
+        {
+            "examples": [
+                "We need to ensure that our team is doing their job with rigor.",
+                "Yes, I agree. We should ensure that everyone is working hard and following the process with diligence and care."
+            ],
+            "synonyms": "diligence, strictness, exactness, thoroughness",
+            "meaning": "严格"
+        },
+        {
+            "examples": [
+                "We need to ensure that our team is working with the utmost rigor on this project.",
+                "Absolutely, I'll make sure that everyone is working diligently and following the standards."
+            ],
+            "synonyms": "strictness, severity, exactness, precision, stringency.",
+            "meaning": "严格"
+        }
+    ],
+    "insinuate": [
+        {
+            "examples": [
+                "I think it's very inappropriate for you to insinuate that I'm not doing my job properly.",
+                "I'm sorry, I didn't mean to imply anything like that. I was just trying to point out that there might be a better way of doing things."
+            ],
+            "synonyms": "Hint, suggest, intimate",
+            "meaning": "暗示"
+        },
+        {
+            "examples": [
+                "I don't think you should insinuate that I'm not doing my job correctly.",
+                "I didn't mean to imply anything, I'm sorry."
+            ],
+            "synonyms": "hint, suggest, imply, allude",
+            "meaning": "暗示"
+        },
+        {
+            "examples": [
+                "I don't think you should be insinuating that I'm not doing my job properly.",
+                "I'm sorry, I didn't mean to insinuate anything."
+            ],
+            "synonyms": "Imply, suggest, hint",
+            "meaning": "暗示"
+        }
+    ],
+    "imminent": [
+        {
+            "examples": [
+                "We need to act quickly, the deadline is imminent!",
+                "I understand, we have to make sure we finish this project before it's too late."
+            ],
+            "synonyms": "impending, upcoming, close, near, impending.",
+            "meaning": "即將到來的"
+        },
+        {
+            "examples": [
+                "I'm worried about the imminent deadline for the project.",
+                "Yes, it's coming up fast. We need to make sure we're on track."
+            ],
+            "synonyms": "impending, forthcoming, impending, impending, looming.",
+            "meaning": "即將到來的"
+        },
+        {
+            "examples": [
+                "We need to finish this project before the deadline. The deadline is imminent!",
+                "Yes, we have to work quickly and efficiently. We don't have much time left!"
+            ],
+            "synonyms": "impending, impending, impending, impending, impending, near, close.",
+            "meaning": "即将发生的"
+        }
+    ],
+    "atrocity": [
+        {
+            "examples": [
+                "Have you heard about the atrocity that happened in Syria?",
+                "Yes, it's a terrible situation. It's an absolute atrocity that innocent people have to suffer like this."
+            ],
+            "synonyms": "outrage, horror, monstrosity, abomination, barbarity",
+            "meaning": "暴行"
+        },
+        {
+            "examples": [
+                "Can you believe the atrocity of what happened in that village?",
+                "No, it's truly shocking. I can't believe how many people were affected by it."
+            ],
+            "synonyms": "Outrage, abomination, horror, monstrosity, wickedness",
+            "meaning": "暴行"
+        },
+        {
+            "examples": [
+                "Have you heard of the recent atrocity in the Middle East?",
+                "Yes, it's a horrible situation."
+            ],
+            "synonyms": "horror, abomination, monstrosity, outrage, wickedness",
+            "meaning": "暴行"
+        }
+    ],
+    "plausible": [
+        {
+            "examples": [
+                "Do you think it's plausible that we can finish this project by the end of the week?",
+                "I believe it's possible. We should be able to make it happen if we put in the extra effort."
+            ],
+            "synonyms": "Credible, believable, reasonable, likely",
+            "meaning": "合理的"
+        },
+        {
+            "examples": [
+                "Do you think it's plausible to launch our new product in the next month?",
+                "It's certainly possible, but I think it's unlikely given the amount of work that needs to be done."
+            ],
+            "synonyms": "Credible, feasible, reasonable, believable",
+            "meaning": "合理的"
+        },
+        {
+            "examples": [
+                "Do you think it's plausible that we can finish this project by the end of the week?",
+                "I think it's possible, but it might be a bit of a stretch. We'll have to work hard to make it happen."
+            ],
+            "synonyms": "Believable, reasonable, credible, probable, tenable",
+            "meaning": "合理的，可信的"
+        }
+    ],
+    "thwart": [
+        {
+            "examples": [
+                "We really need to come up with a plan to thwart our competitors.",
+                "Absolutely, we can't let them get ahead of us."
+            ],
+            "synonyms": "defeat, frustrate, hinder, impede, obstruct, prevent",
+            "meaning": "阻止"
+        },
+        {
+            "examples": [
+                "I'm trying to thwart the competition by launching a new product line.",
+                "That's a great idea. How are you going to make sure it succeeds?"
+            ],
+            "synonyms": "frustrate, hinder, impede, obstruct, block.",
+            "meaning": "阻碍"
+        },
+        {
+            "examples": [
+                "We need to find a way to thwart our competitors from gaining an edge in the market.",
+                "Yes, I agree. We should explore strategies to stay one step ahead of them."
+            ],
+            "synonyms": "frustrate, impede, obstruct, block, hamper",
+            "meaning": "阻止"
+        }
+    ],
+    "frivolous": [
+        {
+            "examples": [
+                "I'm sorry, but I can't approve this frivolous expense.",
+                "What do you mean? I thought it was necessary."
+            ],
+            "synonyms": "Unnecessary, needless, uncalled-for, gratuitous, unwarranted, unmerited.",
+            "meaning": "无聊的，轻浮的。"
+        },
+        {
+            "examples": [
+                "I'm not sure if this new project is worth our time. It seems a bit frivolous.",
+                "What do you mean by frivolous?",
+                "Frivolous means something that is not important or serious, and is a waste of time and energy."
+            ],
+            "synonyms": "Silly, trifling, trivial, unimportant",
+            "meaning": "无聊，琐碎，不重要"
+        },
+        {
+            "examples": [
+                "I'm concerned about the frivolous spending we've been doing lately.",
+                "I understand your concern. We need to be more careful with our resources."
+            ],
+            "synonyms": "Extravagant, wasteful, exorbitant, profligate",
+            "meaning": "浪费的"
+        }
+    ],
+    "elegance": [
+        {
+            "examples": [
+                "This dress is so elegant! I love the way it moves.",
+                "I agree! The elegance of this dress is undeniable. It's so graceful and refined."
+            ],
+            "synonyms": "grace, refinement, poise, sophistication, stateliness",
+            "meaning": "优雅"
+        },
+        {
+            "examples": [
+                "Have you seen the new dress collection at the store? I'm sure you'll love it, it has such elegance!"
+            ],
+            "synonyms": "Oh, I definitely have to check it out! What does the word 'elegance' mean?",
+            "meaning": "Elegance means grace and sophistication. It's a way of having a stylish and refined appearance. In Chinese, it's 端庄"
+        },
+        {
+            "examples": [
+                "I absolutely love the elegance of this dress!",
+                "It's absolutely stunning! The elegance of this dress is truly remarkable."
+            ],
+            "synonyms": "grace, poise, refinement, sophistication, beauty, charm.",
+            "meaning": "优雅"
+        }
+    ],
+    "infallible": [
+        {
+            "examples": [
+                "I think our strategy is infallible. We can't go wrong with it.",
+                "I agree. It's foolproof and unerring. We should get started on it soon."
+            ],
+            "synonyms": "foolproof, unerring, impeccable, errorless, perfect, unerring.",
+            "meaning": "不会出错的，无误的。"
+        },
+        {
+            "examples": [
+                "I'm sure the boss will be pleased with the results of this project, it's been infallible.",
+                "Yes, it's been an impeccable job! I'm sure it will be a success."
+            ],
+            "synonyms": "Impeccable, Flawless, Perfect, Unerring, Unfailing",
+            "meaning": "不会出错"
+        },
+        {
+            "examples": [
+                "I'm so glad I have you to rely on. Your advice is always infallible.",
+                "Thank you! I'm glad I can help."
+            ],
+            "synonyms": "Indisputable, Unerring, Unfailing",
+            "meaning": "绝对正确的"
+        }
+    ]
+}

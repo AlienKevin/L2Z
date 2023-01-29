@@ -1,0 +1,749 @@
+{
+    "opportune": {
+        "prompt": "I think this is an ____ time to discuss our plans for the future.",
+        "word": "opportune",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "doctrine": {
+        "prompt": "Have you read the new company ____?",
+        "word": "doctrine",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "conviction": {
+        "prompt": "I admire your ____ when it comes to your work.",
+        "word": "conviction",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "prudent": {
+        "prompt": "We need to be ____ with our spending if we want to make sure we stay in the black.",
+        "word": "prudent",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "peril": {
+        "prompt": "We must be careful with this new venture. It's fraught with ____.",
+        "word": "peril",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "eminent": {
+        "prompt": "I've heard that Professor Smith is an ____ scholar in his field.",
+        "word": "eminent",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "toil": {
+        "prompt": "I've been ____ing away at this project for weeks now, and I'm still not finished.",
+        "word": "toil",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "disposition": {
+        "prompt": "I'm sorry, but I'm not sure I'm comfortable with your ____ on this matter.",
+        "word": "disposition",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "cardinal": {
+        "prompt": "What do you think of the ____ direction of the new office building?",
+        "word": "cardinal",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "notwithstanding": {
+        "prompt": "We have to move forward with the project, ____ the challenges we may face.",
+        "word": "notwithstanding",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "multitude": {
+        "prompt": "We have to consider the ____ of options available to us.",
+        "word": "multitude",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "heed": {
+        "prompt": "We need to ____ the advice of our financial advisor if we want to make sure our investments are successful.",
+        "word": "heed",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "narrative": {
+        "prompt": "I think we need to focus on the ____ of our business plan if we want to be successful.",
+        "word": "narrative",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "concede": {
+        "prompt": "I'm sorry, but I can't ____ to your demands.",
+        "word": "concede",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "confined": {
+        "prompt": "I'm feeling quite ____ in this office.",
+        "word": "confined",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "startled": {
+        "prompt": "I was so ____ when I saw the snake in the garden!",
+        "word": "startled",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "subtle": {
+        "prompt": "I think the new design is really ____. It's not too overwhelming, but still makes a statement.",
+        "word": "subtle",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "decree": {
+        "prompt": "Did you hear about the new ____ that was issued yesterday?",
+        "word": "decree",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "cite": {
+        "prompt": "I need to ____ this source in my paper.",
+        "word": "cite",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "reverence": {
+        "prompt": "I have so much ____ for the work you do.",
+        "word": "reverence",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "induced": {
+        "prompt": "I heard that the company's success was ____ by the new marketing campaign.",
+        "word": "induced",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "descent": {
+        "prompt": "I'm really impressed by the ____ of the stock market.",
+        "word": "descent",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "congregate": {
+        "prompt": "Hey, let's all ____ at the office tomorrow morning for a meeting.",
+        "word": "congregate",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "fortify": {
+        "prompt": "We need to ____ our business strategy to ensure our success.",
+        "word": "fortify",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "venerate": {
+        "prompt": "I really ____ your work ethic, it's inspiring.",
+        "word": "venerate",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "harp": {
+        "prompt": "Have you ever heard of the ____?",
+        "word": "harp",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "resolute": {
+        "prompt": "We need to be ____ in our plans for the new project.",
+        "word": "resolute",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "chronicle": {
+        "prompt": "Have you read the ____ of our company's history?",
+        "word": "chronicle",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "perplexed": {
+        "prompt": "I'm ____ about what to do next.",
+        "word": "perplexed",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "satire": {
+        "prompt": "Have you seen the new political ____ on TV?",
+        "word": "satire",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "intrigue": {
+        "prompt": "I'm ____d by the new project you're working on. Can you tell me more about it?",
+        "word": "intrigue",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "crook": {
+        "prompt": "Did you hear about that ____ who was arrested for embezzlement?",
+        "word": "crook",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "antagonism": {
+        "prompt": "I'm not sure why there's so much ____ between our two companies.",
+        "word": "antagonism",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "falter": {
+        "prompt": "I think our sales are starting to ____.",
+        "word": "falter",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "dissent": {
+        "prompt": "I'm afraid I must ____ with your opinion on this matter.",
+        "word": "dissent",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "resentment": {
+        "prompt": "I can sense a lot of ____ between us, and I don't think it's healthy for our relationship.",
+        "word": "resentment",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "paved": {
+        "prompt": "Hey, did you hear that the city is paving the roads in our neighborhood?",
+        "word": "paved",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "analogy": {
+        "prompt": "I'm having trouble understanding this concept. Can you explain it to me using an ____?",
+        "word": "analogy",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "venerable": {
+        "prompt": "Have you heard of the ____ company, Smith and Sons?",
+        "word": "venerable",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "anecdote": {
+        "prompt": "Hey, do you have any funny ____s to share?",
+        "word": "anecdote",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "dwarf": {
+        "prompt": "Hey, did you see that ____ at the party last night?",
+        "word": "dwarf",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "notorious": {
+        "prompt": "Have you heard of the ____ criminal, Jack Smith?",
+        "word": "notorious",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "precipitate": {
+        "prompt": "We need to act quickly before the situation ____s.",
+        "word": "precipitate",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "precedent": {
+        "prompt": "We need to consider setting a ____ for how we handle this situation.",
+        "word": "precedent",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "ratify": {
+        "prompt": "We need to ____ the contract before it can take effect.",
+        "word": "ratify",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "baffle": {
+        "prompt": "I'm so ____d by this new project.",
+        "word": "baffle",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "discreet": {
+        "prompt": "I need to discuss something with you, but I need to be ____ about it.",
+        "word": "discreet",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "pertinent": {
+        "prompt": "I believe the most ____ information we need to discuss is the timeline for the project.",
+        "word": "pertinent",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "confederate": {
+        "prompt": "I heard that the company is planning to hire a ____ to help with the project.",
+        "word": "confederate",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "accede": {
+        "prompt": "I'm sorry, but I'm not willing to ____ to your request.",
+        "word": "accede",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "exaggerated": {
+        "prompt": "I think the reports of the new product launch were a bit ____.",
+        "word": "exaggerated",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "contemplation": {
+        "prompt": "I've been in deep ____ about the future of our business.",
+        "word": "contemplation",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "austere": {
+        "prompt": "This office is so ____. Is there anything we can do to make it more inviting?",
+        "word": "austere",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "conscientious": {
+        "prompt": "I'm really impressed with your work ethic. You seem to be very ____ in your approach to tasks.",
+        "word": "conscientious",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "treacherous": {
+        "prompt": "This project is turning out to be more ____ than I anticipated.",
+        "word": "treacherous",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "trivial": {
+        "prompt": "I don't think this issue is ____. We need to take it seriously.",
+        "word": "trivial",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "industrious": {
+        "prompt": "You've been so ____ lately. I'm really impressed with all the hard work you've been putting in.",
+        "word": "industrious",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "naught": {
+        "prompt": "I'm sorry, I was ____ but a few minutes late.",
+        "word": "naught",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "contention": {
+        "prompt": "I'm not sure I agree with your ____ that we should cut back on marketing expenses.",
+        "word": "contention",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "anarchy": {
+        "prompt": "I think this company is in a state of ____.",
+        "word": "anarchy",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "articulate": {
+        "prompt": "I really appreciate how ____ you are when you present your ideas.",
+        "word": "articulate",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "patriarch": {
+        "prompt": "It's amazing to see how the ____ of this company has been able to keep it successful for so many years.",
+        "word": "patriarch",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "consummate": {
+        "prompt": "I'm so proud of our team for completing the project. It was a ____ effort.",
+        "word": "consummate",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "foster": {
+        "prompt": "I think we should ____ a more collaborative work environment in our office.",
+        "word": "foster",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "abate": {
+        "prompt": "I'm sorry, but the noise from our construction site is still abating.",
+        "word": "abate",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "slew": {
+        "prompt": "I'm looking for a new job, and I have a ____ of applications out.",
+        "word": "slew",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "transcend": {
+        "prompt": "I think we need to ____ our current limitations and think of new ideas for our business.",
+        "word": "transcend",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "destitute": {
+        "prompt": "I'm so sorry to hear about your family's financial situation. It must be difficult to be ____.",
+        "word": "destitute",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "sagacity": {
+        "prompt": "I'm so impressed by your ____!",
+        "word": "sagacity",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "strenuous": {
+        "prompt": "This project has been quite ____, hasn't it?",
+        "word": "strenuous",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "laborious": {
+        "prompt": "This project has been so ____. I don't think I can finish it in time.",
+        "word": "laborious",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "rustic": {
+        "prompt": "This restaurant has a really ____ feel to it.",
+        "word": "rustic",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "insistent": {
+        "prompt": "I'm sorry, I can't do that. It's too much of a risk.",
+        "word": "insistent",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "impertinent": {
+        "prompt": "I'm sorry, I didn't mean to be so ____.",
+        "word": "impertinent",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "rigor": {
+        "prompt": "I'm really impressed by the ____ you put into your work.",
+        "word": "rigor",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "insinuate": {
+        "prompt": "I think it's very inappropriate for you to ____ that I'm not doing my job properly.",
+        "word": "insinuate",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "imminent": {
+        "prompt": "We need to act quickly, the deadline is ____!",
+        "word": "imminent",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "atrocity": {
+        "prompt": "Have you heard about the ____ that happened in Syria?",
+        "word": "atrocity",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "plausible": {
+        "prompt": "Do you think it's ____ that we can finish this project by the end of the week?",
+        "word": "plausible",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "thwart": {
+        "prompt": "We really need to come up with a plan to ____ our competitors.",
+        "word": "thwart",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "frivolous": {
+        "prompt": "I'm sorry, but I can't approve this ____ expense.",
+        "word": "frivolous",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "elegance": {
+        "prompt": "This dress is so elegant! I love the way it moves.",
+        "word": "elegance",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    },
+    "infallible": {
+        "prompt": "I think our strategy is ____. We can't go wrong with it.",
+        "word": "infallible",
+        "diff_words": [
+            "prudent",
+            "reverence",
+            "infallible"
+        ]
+    }
+}

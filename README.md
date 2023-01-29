@@ -18,3 +18,32 @@ where business is the topic of the conversation and confined is the word to incl
     "inevitable": "Person 1: \"We need to start planning for the inevitable changes that will come with the new regulations.\"\n\nPerson 2: "Yes, it's inevitable that we'll have to make some adjustments. What do you think our first step should be?\""
 }
 ```
+
+# Dataflow
+1. Start with the new words
+2. Build prompts with each of the new words
+3. Get responses from GPT-3 api
+4. Parse the responses
+```json
+{
+    "laborious": [
+        {
+            "synonoyms": ["a", "b", "c"],
+            "chinese": "辛苦的",
+            "examples": [
+                "This project is proving to be quite laborious. We've been working on it for weeks and still haven't made much progress.",
+                "I know, it's been a challenge. But I think if we keep at it, we'll eventually get there."
+            ]
+        },
+        [
+            "I can't believe how laborious this project is taking me. I thought it would be much easier!",
+            "Yeah, it's definitely a lot more work than we anticipated. But I'm sure if we keep at it, we'll get it done eventually."
+        ]
+    ]
+}
+```
+5. Sort them into two theoretical users
+
+# Frontend
+
+https://github.com/AlienKevin/L2Z_app
