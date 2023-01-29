@@ -7,7 +7,8 @@ with open("raw/core.txt", "r") as f:
 		# skip over irrelevant lines
 		if len(line) > 2:
 			word = line.split(" ")[0]
-			core.append(word)
+			if len(core) == 0 or core[-1] != word:
+				core.append(word)
 
 new = []
 
